@@ -1,0 +1,2 @@
+ALTER TABLE product_reviews
+MODIFY COLUMN rating INT UNSIGNED NOT NULL;
